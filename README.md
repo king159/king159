@@ -9,7 +9,7 @@
 
 ### 🏛 About Me
 
-I’m a first-year Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) with a passion for **AI for Drug Discovery**, **Vision Language Model** & **Image Generation**. Dedicated to expanding my knowledge and contributing to innovative research.
+I’m a second-year Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) supervised by Prof. [Pheng Ann Heng](https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/). My research interests lie in **AI for Drug Discovery** and **Image Generation**. Dedicated to expanding my knowledge and contributing to innovative research.
 
 ---
 
@@ -18,8 +18,6 @@ I’m a first-year Ph.D. student at [The Chinese University of Hong Kong (CUHK)]
 Check out some of my projects:
 
 - [Pair-Net](https://github.com/king159/Pair-Net): [IEEE TPAMI-2024] Pair then Relation: Pair-Net for Panoptic Scene Graph Generation
-- [svd-mv](https://github.com/king159/svd-mv): Unofficial Implementation of "Stable Video Diffusion Multi-View"
-- [AID](https://github.com/QY-H00/attention-interpolation-diffusion): [NeurIPS 2024] Official Implementation of Attention Interpolation of Text-to-Image Diffusion
 
 ---
 
@@ -29,4 +27,4 @@ Feel free to reach out via email: <jinghao.w@link.cuhk.edu.hk>
 
 ---
 
-*This README was last updated on 2025-04.*
+*This README was last updated on 2026-04.*
